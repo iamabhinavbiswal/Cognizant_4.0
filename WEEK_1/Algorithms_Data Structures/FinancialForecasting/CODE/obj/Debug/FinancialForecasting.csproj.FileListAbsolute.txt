@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\FinancialForecasting\FinancialForecasting\bin\Debug\FinancialForecasting.exe.config
+C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\FinancialForecasting\FinancialForecasting\bin\Debug\FinancialForecasting.exe
+C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\FinancialForecasting\FinancialForecasting\bin\Debug\FinancialForecasting.pdb
+C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\FinancialForecasting\FinancialForecasting\obj\Debug\FinancialForecasting.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\FinancialForecasting\FinancialForecasting\obj\Debug\FinancialForecasting.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\FinancialForecasting\FinancialForecasting\obj\Debug\FinancialForecasting.exe
+C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\FinancialForecasting\FinancialForecasting\obj\Debug\FinancialForecasting.pdb
+C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\FinancialForecasting\FinancialForecasting\obj\Debug\FinancialForecasting.exe.config

@@ -1,0 +1,7 @@
+C:\Users\KIIT\Desktop\WEEK_1\Design Principles & Patterns\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\FactoryMethodPatternExample.exe.config
+C:\Users\KIIT\Desktop\WEEK_1\Design Principles & Patterns\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\FactoryMethodPatternExample.exe
+C:\Users\KIIT\Desktop\WEEK_1\Design Principles & Patterns\FactoryMethodPatternExample\FactoryMethodPatternExample\bin\Debug\FactoryMethodPatternExample.pdb
+C:\Users\KIIT\Desktop\WEEK_1\Design Principles & Patterns\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\FactoryMethodPatternExample.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\WEEK_1\Design Principles & Patterns\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\FactoryMethodPatternExample.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\WEEK_1\Design Principles & Patterns\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\FactoryMethodPatternExample.exe
+C:\Users\KIIT\Desktop\WEEK_1\Design Principles & Patterns\FactoryMethodPatternExample\FactoryMethodPatternExample\obj\Debug\FactoryMethodPatternExample.pdb
