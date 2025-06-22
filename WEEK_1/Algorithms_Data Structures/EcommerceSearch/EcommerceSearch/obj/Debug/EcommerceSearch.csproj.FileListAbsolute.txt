@@ -1,8 +1,0 @@
-C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\EcommerceSearch\EcommerceSearch\bin\Debug\EcommerceSearch.exe.config
-C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\EcommerceSearch\EcommerceSearch\bin\Debug\EcommerceSearch.exe
-C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\EcommerceSearch\EcommerceSearch\bin\Debug\EcommerceSearch.pdb
-C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\EcommerceSearch\EcommerceSearch\obj\Debug\EcommerceSearch.csproj.AssemblyReference.cache
-C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\EcommerceSearch\EcommerceSearch\obj\Debug\EcommerceSearch.csproj.CoreCompileInputs.cache
-C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\EcommerceSearch\EcommerceSearch\obj\Debug\EcommerceSearch.exe
-C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\EcommerceSearch\EcommerceSearch\obj\Debug\EcommerceSearch.pdb
-C:\Users\KIIT\Desktop\WEEK_1\Algorithms_Data Structures\EcommerceSearch\EcommerceSearch\obj\Debug\EcommerceSearch.exe.config
