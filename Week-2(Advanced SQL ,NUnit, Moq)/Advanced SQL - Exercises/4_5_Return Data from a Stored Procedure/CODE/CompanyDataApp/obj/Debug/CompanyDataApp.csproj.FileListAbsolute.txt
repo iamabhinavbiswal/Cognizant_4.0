@@ -1,0 +1,7 @@
+C:\Users\KIIT\Desktop\WEEK_2\CompanyDataApp\CompanyDataApp\bin\Debug\CompanyDataApp.exe.config
+C:\Users\KIIT\Desktop\WEEK_2\CompanyDataApp\CompanyDataApp\bin\Debug\CompanyDataApp.exe
+C:\Users\KIIT\Desktop\WEEK_2\CompanyDataApp\CompanyDataApp\bin\Debug\CompanyDataApp.pdb
+C:\Users\KIIT\Desktop\WEEK_2\CompanyDataApp\CompanyDataApp\obj\Debug\CompanyDataApp.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\WEEK_2\CompanyDataApp\CompanyDataApp\obj\Debug\CompanyDataApp.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\WEEK_2\CompanyDataApp\CompanyDataApp\obj\Debug\CompanyDataApp.exe
+C:\Users\KIIT\Desktop\WEEK_2\CompanyDataApp\CompanyDataApp\obj\Debug\CompanyDataApp.pdb

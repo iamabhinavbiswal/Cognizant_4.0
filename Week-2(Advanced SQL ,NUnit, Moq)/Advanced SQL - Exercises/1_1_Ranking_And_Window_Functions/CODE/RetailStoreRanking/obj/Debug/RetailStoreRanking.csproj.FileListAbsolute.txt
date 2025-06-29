@@ -1,0 +1,11 @@
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\bin\Debug\RetailStoreRanking.exe.config
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\bin\Debug\RetailStoreRanking.exe
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\bin\Debug\RetailStoreRanking.pdb
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\bin\Debug\System.Data.SqlClient.dll
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\bin\Debug\System.Data.SqlClient.xml
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\obj\Debug\RetailStoreRanking.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\obj\Debug\RetailStoreRanking.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\obj\Debug\RetailSt.ED4A663D.Up2Date
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\obj\Debug\RetailStoreRanking.exe
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\obj\Debug\RetailStoreRanking.pdb
+C:\Users\KIIT\Desktop\WEEK_2\RetailStoreRanking\RetailStoreRanking\obj\Debug\RetailStoreRanking.exe.config

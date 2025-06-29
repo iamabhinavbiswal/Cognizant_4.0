@@ -1,0 +1,8 @@
+C:\Users\KIIT\Desktop\WEEK_2\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe.config
+C:\Users\KIIT\Desktop\WEEK_2\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.exe
+C:\Users\KIIT\Desktop\WEEK_2\EmployeeManager\EmployeeManager\bin\Debug\EmployeeManager.pdb
+C:\Users\KIIT\Desktop\WEEK_2\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\WEEK_2\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\WEEK_2\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe
+C:\Users\KIIT\Desktop\WEEK_2\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.pdb
+C:\Users\KIIT\Desktop\WEEK_2\EmployeeManager\EmployeeManager\obj\Debug\EmployeeManager.exe.config
